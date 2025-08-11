@@ -5,7 +5,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)
 
-> **Author:** Your Name • [GitHub](https://github.com/Ritikghoghari) • [LinkedIn]((http://linkedin.com/in/ritik-ghoghari-951ab229b))  
+> **Author:** Ritik Ghoghari
+> • [GitHub](https://github.com/Ritikghoghari)
+> • [LinkedIn]((http://linkedin.com/in/ritik-ghoghari-951ab229b))  
 > Deep learning approach for detecting and classifying fabric types and defects using convolutional neural networks.
 
 ---
@@ -40,14 +42,13 @@ The dataset is sourced from **Kaggle**:
 ## ⚙️ Usage
 
 ### 1️⃣ Clone this repository
-```bash
 git clone https://github.com/yourusername/fabric-defect-classification.git
 cd fabric-defect-classification
 
-2️⃣ Open the Jupyter Notebook
+### 2️⃣ Open the Jupyter Notebook
 jupyter notebook Fabric_Defect_Classification.ipynb
 
-3️⃣ Run the notebook
+### 3️⃣ Run the notebook
 The notebook will:
 
 - 📥 Download the dataset using kagglehub
@@ -56,7 +57,7 @@ The notebook will:
 - 📊 Evaluate using confusion matrix and classification report
 
 
-🙌 Acknowledgements
+### 🙌 Acknowledgements
 - Dataset: Fabric Dataset – Kaggle
 - Framework: TensorFlow
 - Author: Ritik Ghoghari
